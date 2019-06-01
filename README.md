@@ -10,7 +10,7 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 
 Current-Features
 - [x] finished the basic CRUD
-- [x] REGISTER , LOGIN
+- [x] registering , login system
 - [x] Editprofile
 - [x] Upload profile picture
 - [x] Upload profile cover photo
@@ -18,6 +18,8 @@ Current-Features
 - [x] Comment on a status post
 - [x] Create a post within topic
 - [x] Comment on a topic post
+- [x] Like a post
+- [x] Follow user
 - [ ] deploy on cloud service
 
 <p align="center">
