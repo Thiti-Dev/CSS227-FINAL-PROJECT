@@ -8,7 +8,7 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 #### Note: The lists below here are the framework used
 `REACT`
 
-Current-Features
+#### Current-Features
 - [x] finished the basic CRUD
 - [x] registering , login system
 - [x] Editprofile
