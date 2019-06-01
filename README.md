@@ -29,6 +29,12 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 - [ ] Remove comment
 - [ ] Challenge system to improve profile statistic
 
+
+#### Currently working-on
+- [ ] Migrate to react-native , mainly on mobile device [ frist ] 40%
+- [x] Migrate from mongoDB to firestore database 
+
+
 <p align="center">
   <b>: Contact me By :</b><br>
   <a href="https://www.facebook.com/thiti.developer">Facebook</a> |
