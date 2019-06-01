@@ -14,6 +14,10 @@ Current-Features
 - [x] Editprofile
 - [x] Upload profile picture
 - [x] Upload profile cover photo
+- [x] Create status post
+- [x] Comment on a status post
+- [x] Create a post within topic
+- [x] Comment on a topic post
 - [ ] deploy on cloud service
 
 <p align="center">
