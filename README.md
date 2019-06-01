@@ -26,7 +26,7 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 - [ ] dislike post
 - [ ] unfollow person
 - [ ] remove comment
-- [ ] challenge system to improve static
+- [ ] challenge system to improve profile statistic
 
 <p align="center">
   <b>: Contact me By :</b><br>
