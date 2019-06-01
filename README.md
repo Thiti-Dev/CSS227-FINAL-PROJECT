@@ -23,10 +23,11 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 - [x] Delete a post
 
 #### Incoming-Features
-- [ ] dislike post
-- [ ] unfollow person
-- [ ] remove comment
-- [ ] challenge system to improve profile statistic
+- [ ] Like comment
+- [ ] Dislike post
+- [ ] Unfollow person
+- [ ] Remove comment
+- [ ] Challenge system to improve profile statistic
 
 <p align="center">
   <b>: Contact me By :</b><br>
