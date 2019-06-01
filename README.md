@@ -21,7 +21,11 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 - [x] Like a post
 - [x] Follow user
 - [x] Delete a post
-- [ ] deploy on cloud service
+
+#### Incoming-Features
+- [ ] dislike post
+- [ ] unfollow person
+- [ ] remove comment
 
 <p align="center">
   <b>: Contact me By :</b><br>
