@@ -20,6 +20,7 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 - [x] Comment on a topic post
 - [x] Like a post
 - [x] Follow user
+- [x] Delete a post
 - [ ] deploy on cloud service
 
 <p align="center">
