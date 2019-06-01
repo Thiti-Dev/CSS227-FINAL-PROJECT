@@ -8,7 +8,8 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 #### main
 `REACT`
 
-Current-Progress
+Current-Features
+- [x] finished the basic CRUD
 - [x] finished project
 - [ ] deploy on cloud service
 
