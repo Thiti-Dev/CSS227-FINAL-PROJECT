@@ -2,6 +2,7 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 
 #### How to run ( วิธีการรัน )
 `npm run dev`
+###### localhost:3000 < default path
 
 
 **Note: The lists below here are the framework used**
@@ -10,7 +11,10 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 
 Current-Features
 - [x] finished the basic CRUD
-- [x] finished project
+- [x] REGISTER , LOGIN
+- [x] Editprofile
+- [x] Upload profile picture
+- [x] Upload profile cover photo
 - [ ] deploy on cloud service
 
 <p align="center">
