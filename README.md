@@ -5,8 +5,7 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 ###### localhost:3000 < default path
 
 
-**Note: The lists below here are the framework used**
-#### main
+Note: The lists below here are the framework used
 `REACT`
 
 Current-Features
