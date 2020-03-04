@@ -1,14 +1,11 @@
 This project was created and implemented by [Thiti Mahawannakit](https://www.facebook.com/n.o.m.o.r.e.1.2.8.0.2)
 
-#### How to run ( วิธีการรัน )
-`npm run dev`
-###### localhost:3000 < default path
+## 🎓 Commumity of Practice
 
+The community website which aims to improve student's English skills and in order to be easily connected to the foriegn people
 
-#### Note: The lists below here are the framework used
-`REACT`
+## ✨ Features
 
-#### Current-Features
 - [x] finished the basic CRUD
 - [x] registering , login system
 - [x] Editprofile
@@ -22,18 +19,45 @@ This project was created and implemented by [Thiti Mahawannakit](https://www.fac
 - [x] Follow user
 - [x] Delete a post
 
-#### Incoming-Features
+## Incoming-Features ✨
 - [ ] Like comment
 - [ ] Dislike post
 - [ ] Unfollow person
 - [ ] Remove comment
 - [ ] Challenge system to improve profile statistic
 
+## 🚀 Getting Started
 
-#### Currently working-on
-- [ ] Migrate to react-native , mainly on mobile device [ frist ] 40%
-- [x] Migrate from mongoDB to firestore database 
+1. **Install the node modules.**
 
+run the below command once the project is cloned ( both for nodejs and also in client folder )
+
+```sh
+npm install
+```
+
+2. **run the node script.**
+
+run the node script
+
+```sh
+npm run dev
+```
+
+3. **default running port.**
+```sh
+localhost:3000
+```
+
+## 🌟 Preview
+
+<div align="center">
+  
+ ![ScreenShot](https://www.img.in.th/images/5f5cf4f18c329ea862baa1e944717f87.png)
+ <br><br>
+ ![ScreenShot](https://www.img.in.th/images/5387a6a2ee823abca891646f7af05652.png)
+ 
+</div>
 
 <p align="center">
   <b>: Contact me By :</b><br>
